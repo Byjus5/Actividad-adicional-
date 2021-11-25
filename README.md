@@ -1,2 +1,2 @@
-# PiratesInvasionSatgae-5.5
-Boilerplate Code for Stage 5.5
+# InvasiónPirataEtapa-5.5
+Boilerplate del código para la etapa 5.5
